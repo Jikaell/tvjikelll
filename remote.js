@@ -8,7 +8,7 @@ const os = require('os');
 const CONFIG = {
   PORT: process.env.PORT || 3001,
   DISCORD_TOKEN: 'MTM2Nzc4NTIwNjMyODU5MDMzNg.GXdkBi.QWg_2X1Jgp2qCuiOa1sfqrFNPzEz3yFFVs4mkI', // Ganti dengan token Discord Anda
-  WEBSITE_URL: 'https://soeryox.github.io/TvDiscord.github.io/',
+  WEBSITE_URL: 'https://github.com/Jikaell/tvjikelll',
   PREFIX: '!tv'
 };
 
